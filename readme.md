@@ -18,7 +18,7 @@ extension=zip
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/warehouse-management.git
+   git clone https://github.com/AbdElRahmanAbboud/warehouse-management.git
    cd warehouse-management
    ```
 
